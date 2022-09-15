@@ -112,3 +112,9 @@ ENV/
 
 # mkdocs build dir
 site/
+
+# OS Files
+.DS_Store
+
+# Docker File
+.home/
