@@ -1,5 +1,7 @@
 # Cookiecutter PyPackage
 
+**Note: This is custom fork from https://github.com/waynerv/cookiecutter-pypackage.git please use the original fork for default configurations.**
+
 Cookiecutter template for a Python package, built with popular develop tools and
 conform to best practice.
 
@@ -41,7 +43,7 @@ pip install -U cookiecutter
 Generate a Python package project:
 
 ```
-cookiecutter https://github.com/waynerv/cookiecutter-pypackage.git
+cookiecutter https://github.com/shivammehta007/cookiecutter-pypackage.git
 ```
 
 Then follow **[Tutorial](docs/tutorial.md)** to finish other configurations.
